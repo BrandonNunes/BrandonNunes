@@ -1,6 +1,6 @@
 ###  Hi, I'm Brandon
 
-# Welcome to my Github </>
+# ✨✨Welcome to my Github <💻/>
   
 ## <a href="https://www.linkedin.com/in/brandon-alves-69401320b/" target=blank><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" heiht="32px"></a>
   
