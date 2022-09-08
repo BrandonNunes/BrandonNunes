@@ -19,7 +19,7 @@
           
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonNunes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonNunes&hide=css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
   
   
   ![BrandonNunes GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonNunes&show_icons=true&theme=radical)
